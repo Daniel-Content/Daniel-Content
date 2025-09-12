@@ -7,8 +7,8 @@
 
 Mainly Roblox developer, but I also make games outside of Roblox, and develop useful programs.
 
-🔭 I’m currently working on a realistic milsim on Roblox.<br/>
-🌱 I’m currently learning C#
+🏗 I’m currently working on a realistic milsim on Roblox.<br/>
+📜 I’m currently learning C#
 
 <div align="center">
   
